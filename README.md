@@ -6,7 +6,7 @@ be added once a significant amount of data is collected.
 
 Timeline of Project:
 
-Obtained Parts: 2/25/2019
+Obtained Parts: 2/25/2019 **Will begin setup and installation of operating system this week. 
 
 Initial Setup and Install Operating System:
 
